@@ -7,10 +7,10 @@ namespace SpringHello.model
 {
     public class YYTransactionModel
     {
-        public List<Transaction> getTransactionByAccountNumber(string accountNumber)
+        public List<YYTransaction> getTransactionByAccountNumber(string accountNumber)
         {
             YYTransaction transaction = null;
-            var lisTransaction = new List<Transaction>();
+            var lisTransaction = new List<YYTransaction>();
             var queryString = "select * from `accounts` where senderAccountNumber = @accountnumber or receiverAccountNumber = @accountnumber";
             MySqlCommand cmd = new MySqlCommand(queryString, DbConnection.Instance().Connection);
             cmd.Parameters.AddWithValue("@accountnumber", accountNumber);
@@ -28,11 +28,11 @@ namespace SpringHello.model
                     ReceiverAccountNumber = reader.GetString("receiverAccountNumber"),
                     Type = (YYTransaction.TransactionType) reader.GetInt32("type"),
                     Status = (YYTransaction.ActiveStatus) reader.GetInt32("status")
-                    
-                    
-                    
+                     
                     
                 };
+                
+                lisTransaction.Add(transaction);
                 
             }
             

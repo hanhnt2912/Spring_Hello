@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5d8e6df-ffe4-487f-8fc3-144549594433" name="Default" comment="" />
+    <list default="true" id="d5d8e6df-ffe4-487f-8fc3-144549594433" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YYAccountModel.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="YYAccountModel.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpringHello/model/YYAccountModel.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -111,6 +113,23 @@
                 <marker date="1529767671381" expanded="true" signature="17361:17450" ph="{...}" />
                 <marker date="1529767671381" expanded="true" signature="17554:17712" ph="{...}" />
                 <marker date="1529767671381" expanded="true" signature="17637:17706" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YYTransactionModel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding>
+                <marker date="1529770532626" expanded="false" signature="6:104" ph="..." />
+                <marker date="1529770532626" expanded="true" signature="133:1735" ph="{...}" />
+                <marker date="1529770532626" expanded="true" signature="171:1733" ph="{...}" />
+                <marker date="1529770532626" expanded="true" signature="264:1727" ph="{...}" />
+                <marker date="1529770532626" expanded="true" signature="787:1656" ph="{...}" />
+                <marker date="1529770532626" expanded="true" signature="868:1558" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -182,6 +201,9 @@
       <find>check</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SpringHello/controller/CotrollerSpring.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SpringHello/unillty/Hash.cs" root0="FORCE_HIGHLIGHTING" />
@@ -209,10 +231,10 @@
         <option value="$PROJECT_DIR$/SpringHello/entity/YYTransaction.cs" />
         <option value="$PROJECT_DIR$/SpringHello/unillty/Utillty.cs" />
         <option value="$PROJECT_DIR$/SpringHello/entity/YYAccount.cs" />
-        <option value="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" />
         <option value="$PROJECT_DIR$/SpringHello/view/MainThread.cs" />
         <option value="$PROJECT_DIR$/SpringHello/model/YYAccountModel.cs" />
         <option value="$PROJECT_DIR$/SpringHello/controller/CotrollerSpring.cs" />
+        <option value="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" />
       </list>
     </option>
   </component>
@@ -225,11 +247,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1041" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -325,12 +348,12 @@
       <workItem from="1529316467619" duration="1562000" />
       <workItem from="1529370702436" duration="17622000" />
       <workItem from="1529648366417" duration="14674000" />
-      <workItem from="1529766328834" duration="1332000" />
+      <workItem from="1529766328834" duration="2123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104174000" />
+    <option name="totallyTimeSpent" value="104965000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +365,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" />
@@ -351,7 +374,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="14" weight="0.3291592" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="NuGet" order="5" weight="0.3291592" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.16194332" />
@@ -1343,21 +1366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <marker date="1529664955000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1529664955000" expanded="true" signature="133:1706" ph="{...}" />
-            <marker date="1529664955000" expanded="true" signature="171:1704" ph="{...}" />
-            <marker date="1529664955000" expanded="true" signature="262:1698" ph="{...}" />
-            <marker date="1529664955000" expanded="true" signature="783:1627" ph="{...}" />
-            <marker date="1529664955000" expanded="true" signature="864:1595" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringHello/view/MainThread.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1464,6 +1472,21 @@
             <marker date="1529767671381" expanded="true" signature="17361:17450" ph="{...}" />
             <marker date="1529767671381" expanded="true" signature="17554:17712" ph="{...}" />
             <marker date="1529767671381" expanded="true" signature="17637:17706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <marker date="1529770532626" expanded="false" signature="6:104" ph="..." />
+            <marker date="1529770532626" expanded="true" signature="133:1735" ph="{...}" />
+            <marker date="1529770532626" expanded="true" signature="171:1733" ph="{...}" />
+            <marker date="1529770532626" expanded="true" signature="264:1727" ph="{...}" />
+            <marker date="1529770532626" expanded="true" signature="787:1656" ph="{...}" />
+            <marker date="1529770532626" expanded="true" signature="868:1558" ph="{...}" />
           </folding>
         </state>
       </provider>
