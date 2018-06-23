@@ -1,0 +1,11 @@
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\bin\Debug\netcoreapp2.0\SpringHello.deps.json
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\bin\Debug\netcoreapp2.0\SpringHello.runtimeconfig.json
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\bin\Debug\netcoreapp2.0\SpringHello.runtimeconfig.dev.json
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\bin\Debug\netcoreapp2.0\SpringHello.dll
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\bin\Debug\netcoreapp2.0\SpringHello.pdb
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.csprojAssemblyReference.cache
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.csproj.CoreCompileInputs.cache
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.AssemblyInfoInputs.cache
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.AssemblyInfo.cs
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.dll
+C:\Users\GIANG TINH\RiderProjects\SpringHello\SpringHello\obj\Debug\netcoreapp2.0\SpringHello.pdb
