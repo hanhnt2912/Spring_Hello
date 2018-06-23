@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5d8e6df-ffe4-487f-8fc3-144549594433" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpringHello/model/YYTransactionModel.cs" afterDir="false" />
-    </list>
+    <list default="true" id="d5d8e6df-ffe4-487f-8fc3-144549594433" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -348,12 +346,12 @@
       <workItem from="1529316467619" duration="1562000" />
       <workItem from="1529370702436" duration="17622000" />
       <workItem from="1529648366417" duration="14674000" />
-      <workItem from="1529766328834" duration="2123000" />
+      <workItem from="1529766328834" duration="2682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104965000" />
+    <option name="totallyTimeSpent" value="105524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,7 +363,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" />
